@@ -60,3 +60,7 @@ p {
 .item:hover img {
   transform: scale3d(1.1, 1.1, 1);
 }
+@media screen and (min-width: 768px) {
+  h1{font-size:4em;}
+  p{font-size:1em;}
+  .item{width:50%;}}
